@@ -1,0 +1,5 @@
+(version 6)
+
+(rule "RF-GND"
+	(constraint clearance (min 0.4mm))
+	(condition "A.NetClass == 'RF' && B.NetName == 'GND'"))
