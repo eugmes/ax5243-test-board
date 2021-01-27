@@ -22,7 +22,6 @@ fp-info-cache
 
 # Exported BOM files
 *.xml
-*.csv
 
 # Backups
 ax5243-test-board-backups/
