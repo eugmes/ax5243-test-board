@@ -113,7 +113,7 @@
         "min_via_annular_width": 0.049999999999999996,
         "min_via_diameter": 0.39999999999999997,
         "solder_mask_clearance": 0.0,
-        "solder_mask_min_width": 0.0,
+        "solder_mask_min_width": 0.02,
         "solder_paste_clearance": 0.0,
         "solder_paste_margin_ratio": -0.0
       },
@@ -449,7 +449,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "pdf",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
@@ -457,7 +457,7 @@
   },
   "sheets": [
     [
-      "3e19d817-faa0-4af5-b871-6c553fe3eefa",
+      "12997dfd-cf90-4568-b88e-87aac705a5e9",
       ""
     ]
   ],
