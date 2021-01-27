@@ -20,19 +20,3 @@ R2,100,R_0402_1005Metric,1,Yageo,RC0402FR-07100RP,Digikey,YAG1248CT-ND,,
 R3,1k,R_0402_1005Metric,1,Yageo,RC0402FR-071KP,Digikey,YAG1254CT-ND,,
 U1,AX5243,QFN50P400X400X80-21B-THERMALVIAS,1,ON Semiconductor,AX5243-1-TW30,Digikey,488-AX5243-1-TW30CT-ND,,
 X1,26MHz,Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm,1,Taitien,TYETACSANF-26.000000,Digikey,1664-1297-1-ND,,0.5ppm
-
-
-
-
-
-Component Groups:,23
-Component Count:,35
-Fitted Components:,32
-Number of PCBs:,1
-Total components:,32
-Schematic Version:,
-Schematic Date:,2021-01-08
-PCB Variant:,['default']
-BoM Date:,"2021 January 25, Monday 00:32:23"
-Schematic Source:,ax5243-test-board.kicad_sch
-KiCad Version:,Eeschema (5.99.0-8408-g2f86419c55)
