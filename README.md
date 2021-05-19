@@ -10,7 +10,7 @@ The antenna is matched at 169 MHz. The board is designed using
 available in PDF format. The generated gerber files are available in
 [gerbers](gerbers) directory. The board is also available on
 [Aisler](https://aisler.net/p/OMGYYSHU) (latest available revision is
-https://github.com/eugmes/ax5243-test-board/releases/tag/rev-B).
+[B](https://github.com/eugmes/ax5243-test-board/releases/tag/rev-B)).
 
 The produced board was tested using NUCLEO-L432KC development board
 and was able to receive and transmit AIS signals. Some test software is
