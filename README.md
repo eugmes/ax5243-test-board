@@ -9,10 +9,15 @@ The antenna is matched at 169 MHz. The board is designed using
 (version 5.99). The [schematic](schematic/ax5243-test-board.pdf) is also
 available in PDF format. The generated gerber files are available in
 [gerbers](gerbers) directory. The board is also available on
-[Aisler](https://aisler.net/p/OMGYYSHU).
+[Aisler](https://aisler.net/p/OMGYYSHU) (latest available revision is
+https://github.com/eugmes/ax5243-test-board/releases/tag/rev-B).
 
 The produced board was tested using NUCLEO-L432KC development board
 and was able to receive and transmit AIS signals. Some test software is
 available here: https://github.com/eugmes/ax5243-zephyr
+
+Changes since last release:
+
+* Added additional matching capacitor that is needed for higher frequencies.
 
 ![Board rendering](rendering.png)
