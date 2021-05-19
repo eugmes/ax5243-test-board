@@ -1,4 +1,6 @@
 Ref,Val,Package,PosX,PosY,Rot,Side
+"J2","Conn_01x15","PinSocket_1x15_P2.54mm_Vertical",17.780000,7.620000,-90.000000,bottom
+"J3","Conn_01x15","PinSocket_1x15_P2.54mm_Vertical",17.780000,-7.620000,-90.000000,bottom
 "C1","27pF","C_0402_1005Metric",-9.600000,-0.710000,90.000000,top
 "C2","6.8pF","C_0402_1005Metric",-7.900000,-0.700000,0.000000,top
 "C3","27pF","C_0402_1005Metric",-6.400000,-1.200000,90.000000,top
@@ -17,6 +19,11 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "C16","DNP","C_0402_1005Metric",9.700000,3.370000,-90.000000,top
 "C17","1nF","C_0402_1005Metric",11.270000,3.860000,0.000000,top
 "C18","10nF","C_0402_1005Metric",10.470000,1.270000,90.000000,top
+"H1","MountingHole","MountingHole_1.8mm",-20.320000,7.620000,0.000000,top
+"H2","MountingHole","MountingHole_1.8mm",20.320000,7.620000,0.000000,top
+"H3","MountingHole","MountingHole_1.8mm",-20.320000,-7.620000,0.000000,top
+"H4","MountingHole","MountingHole_1.8mm",20.320000,-7.620000,0.000000,top
+"J1","CONSMA008-G","SMA_Amphenol_132291-12_Vertical",-15.000000,0.000000,180.000000,top
 "L1","33nH","L_0402_1005Metric",-7.900000,0.700000,0.000000,top
 "L2","68nH","L_0402_1005Metric",-5.000000,0.700000,0.000000,top
 "L3","68nH","L_0402_1005Metric",-3.450000,-1.150000,90.000000,top
@@ -29,4 +36,5 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "R2","100","R_0402_1005Metric",12.710000,-1.690000,180.000000,top
 "R3","1k","R_0402_1005Metric",4.200000,4.100000,-90.000000,top
 "R4","DNP","R_0402_1005Metric",14.700000,-0.610000,180.000000,top
+"U1","AX5243","QFN50P400X400X80-21B-THERMALVIAS",4.700000,0.300000,0.000000,top
 "X1","26MHz","Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm",12.500000,1.600000,90.000000,top
